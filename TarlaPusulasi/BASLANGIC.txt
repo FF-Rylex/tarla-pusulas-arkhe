@@ -1,0 +1,22 @@
+TARLA PUSULASI — İLK AÇILIŞ
+
+ZIP dosyasını çıkarın ve dist/TarlaPusulasi.exe dosyasını açın.
+İlk açılışta Günlük Rehber veya Analiz Merkezi görünümünü seçin.
+Her görünüm kendi tanıtımını ilk kullanımda bir kez açar.
+Özelleştirme’den görünümü ve dili değiştirebilir, seçili görünümün tanıtımını yeniden başlatabilirsiniz.
+Dil seçenekleri: Türkçe, English ve Deutsch.
+
+Tarla Pusulası
+
+ZIP dosyasının tamamını çıkarın. Açık olan eski Tarla Pusulası sürümünü
+kapatıp çıkarılan klasördeki dist/TarlaPusulasi.exe dosyasını açın.
+
+Araç sekmelerinin sırasını sekme başlığını sürükleyerek değiştirebilirsiniz.
+Dil ve hareket ayarları Özelleştirme bölümündedir.
+
+Harita için Microsoft Edge WebView2 Runtime gerekir. Uydu görüntüleri ve
+canlı veriler internet bağlantısı kullanır. Kaynak kodunu yeniden derlemek
+için build_exe.bat dosyasını kullanın.
+
+25000 Hz için arduino/TarlaBuzzer/TarlaBuzzer.ino dosyasındaki güncel kodu Arduino’ya yükleyin.
+Haşere fotoğraflarının kaynakları assets/hasere/KAYNAKLAR.txt dosyasındadır.
